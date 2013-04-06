@@ -36,7 +36,6 @@ Nothing
 	- Discuss few Home Assignments in detail (can take 8-10 such problems) and give proper feedback.
 	- _Home Assignment_: Improve the home assignments and mail to the faculty by Thursday. 
 	- Make teams of 3-4 students (or pair programming) and every team will choose a problem statement (can be from home assignments) they are willing take as _Self Project_. They can mail it with flow chart by next day.
-	- 
 	
 - *Backend prep* (tasks to be done by Blue Cocoon, before the next lecture)
 	- After the team submits their problem with its flow chart. Develop a proper mini project from each statement and make a plan of implementation based on learning in each session.
