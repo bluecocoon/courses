@@ -20,7 +20,7 @@ Nothing
 ###Methodology:
 - __Experiential process:__ The students will learn by experience instead of informative lectures. Professionals will guide the whole learning and allow students to explore and generate many possibilities.
 - __Application based:__ Application took center stage. It is important to know ‘the context for the content’ to make content relevant. Skills learned in the classroom are immediately applied to a realistic setting (in project development). 
-- __Project development:__ All the teaching will happen
+- __Project development:__ The teaching Process will be ,
 	1. Through developing a project in Classroom sessions (aka **Classroom Project**). 
 	2. Followed by Lab sessions, where students (in teams/pairs) will practice through developing a separate project chosen by them (aka **Self Project**). 
 
@@ -38,7 +38,7 @@ Nothing
 	- Make teams of 3-4 students (or pair programming) and every team will choose a problem statement (can be from home assignments) they are willing take as _Self Project_. They can mail it with flow chart by next day.
 	
 - *Backend prep* (tasks to be done by Blue Cocoon, before the next lecture)
-	- After the team submits their problem with its flow chart. Develop a proper mini project from each statement and make a plan of implementation based on learning in each session.
+	- After the team submits their problem with its flow chart , Develop a proper mini project from each statement and make a plan of implementation based on learning in each session.
 
 ####Session 2: 
 - **Saturday**
@@ -112,7 +112,7 @@ Nothing
 
 ***Note:***
 
-1. *All the communication with students will done by both verbal and email to help them understand the communication techniques.*
-2. *Every student will have to send emails for each project deliverables initially and later (post Session 5) need to commit them in Git.*
+1. *Communication with students will be  verbal and via email , to help them understand the communication techniques.*
+2. *Every student will have to revert via emails for each project deliverables initially and later (post Session 5) need to commit them in Git.*
 
 
