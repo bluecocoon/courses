@@ -112,7 +112,7 @@ Nothing
 
 ***Note:***
 
-1. *Communication with students will be  verbal and via email , to help them understand the communication techniques.*
+1. *Communication with students will be both verbal and via email, to help them improve their communication skills.*
 2. *Every student will have to revert via emails for each project deliverables initially and later (post Session 5) need to commit them in Git.*
-
+3. *Projects developed by students will be tested and their test plan will be reviewed every week to find bugs. Students need to fix those bugs. It will provide them with close to real project development challenges and experirnce*
 
