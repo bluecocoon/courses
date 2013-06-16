@@ -1,36 +1,36 @@
 #Course CS-102 : Object Oriented Programming and Application of Data Structures & DBMS (Java)
 
 ###Target Students 
-Students of Mumbai University currently studying (or will get) in 3nd semester of Computer Science or Information Technology.
+Students of Mumbai University currently studying (or will get) in 3rd semester of Computer Science or Information Technology.
 
 ###Pre requisite
-Nothing
+- Hands on experience of any Structured Programming Language.
+- Basic problem solving skills. 
 
 ###Objective:
 - Learn concepts of object-oriented programming
 - Knowledge and skills in OO design and program development
 - Building oop application using Java.
 - Learn to use various Data Structures and RDBMS in project development.
-- Understanding basic principles, processes and tools of collaborative programming (coding ethics, versioning systems, Testing, documentations, discussion and presentations)
+- Understanding basic principles, processes and tools of collaborative programming (coding ethics, versioning systems, testing, documentations, discussion and presentations)
 
 ###Duration: 
 - Classroom Session: 8 sessions on Sat of 3 hrs each (Total 24 hrs.)
-- Lab Session : 8 sessions on Sun of 3 hrs each (Total 24 hrs.)
-	
+- Lab Session : 8 sessions on Sun of 3 hrs each (Total 24 hrs.)	
 
 ###Methodology:
 - __Experiential process:__ The students will learn by experience instead of informative lectures. Professionals will guide the whole learning and allow students to explore and generate many possibilities.
-- __Application based:__ Application took center stage. It is important to know ‘the context for the content’ to make content relevant. Skills learned in the classroom are immediately applied to a realistic setting (in project development). 
-- __Project development:__ The teaching process will be ,
+- __Application Oriented:__ Application took center stage. It is important to know _‘the context for the content’_ to make content relevant. Skills learned in the classroom are immediately applied to a realistic setting (in project development). 
+- __Project driven:__ The teaching process will be ,
 	1. Through developing a project in Classroom sessions (aka **Classroom Project**). 
-	2. Followed by Lab sessions, where students (in teams/pairs) will practice through developing a separate project chosen by them (aka **Self Project**). 
+	2. Followed by Lab sessions, where students (in teams/pairs) will practice by developing a separate project chosen by them (aka **Self Project**). 
 
 ###Course Sturcture
-####Session 0 (offline, 8-10 days before Session 1):
+####Session 0: (offline session, 8-10 days before Session 1)
 - **Assignment**
-	- Students will be given a common programming assignment 'Assignment - 0' in structured programming language (i.e C). (The assignment will be such that which is quite dufficult to implement in C but would be relatively easy with OOPS)
+	- Students will be given a programming assignment 'Assignment-0' in structured programming language (i.e C). (The assignment will be such that which is quite dufficult to implement in C but would be relatively easy with OOPS)
 	- Need to submit in 4-6 days, i.e 4 days before Session 1.
-        - Review and revert with feedback on Assignment - 0 with in 2 days to the studnets via email. 
+        - Review and revert with feedback on Assignment-0 with in 2 days to the students via email. 
 
 ####Session 1: 
 - **Saturday**
@@ -44,11 +44,11 @@ Nothing
 - **Sunday**
 	- Assigmments to practice learnings of last lecture, 'Assignment Set-1'.
         - _Self Project_: 
-		1. Ask the students to form a team of 4-5 members/team (preferably 4). Give a nice name to their team.
+		1. Ask the students to form a team of 4-5 members/team (preferably 4) and give a name to it.
 		2. Announce the team to figure out their Self Project topic. 
 		3. They will have to submit 3 topics by Wednesday, in precedence, out of which they will be assigned one.
 		4. Explain them 'Points to remember' while selecting the topics
-			- The scope of the project should be adequate wrt time.
+			- The scope of the project should be adequate w.r.t. time.
 			- Project should not be based on internet, n/w prog, mobile devices (eg: library mgmt instead of online library).
 	- _Home Assignment_: Finish the remaining programs of Assignment Set-1 and submit by Thursday. 
 	
@@ -69,8 +69,7 @@ Nothing
 	- _Home Assignment_: Further implement simple methods by dividing the work to each member. Mail their assignment before the next lecture.
 - *Backend prep* 
 	- Create Git repositories for teams and grant access to all members. 
-	- Go through the flow charts of teams and give your feedback on it to make it proper. Also make a schedule for implementation, which will align with the learning in each Classroom session. 
-	- Mail the Self Project topic, feedback and schedule to each team.
+	- Mail the Self Project topic, feedback and schedule to each team which will align with the learning in each Classroom session.
 
 ####Session 3:
 - **Saturday**
@@ -149,5 +148,5 @@ Nothing
 1. *Communication with students will be  verbal and via email , to help them understand the communication techniques.*
 2. *Every student will have to revert via emails for each project deliverables initially and later (post Session 4) need to commit them in Git.*
 3. All the documentation is inline i.e using Java Docs.
-4. IDE (i.e Eclipse) will be used right from Session 1. Initieally it will be used as a text editor and lslowly increased to advanced usage.
+4. IDE (i.e Eclipse) will be used right from Session 1. Initially it will be used as a text editor and gradually use it as IDE.
 
