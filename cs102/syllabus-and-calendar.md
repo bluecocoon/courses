@@ -1,4 +1,4 @@
-#Course CS-101 : Problem Solving using Structured Language (C)
+#Course CS-102 : Object Oriented Programming and Application of Data Structures & DBMS (Java)
 
 ###Target Students 
 Students of Mumbai University currently studying (or will get) in 3nd semester of Computer Science or Information Technology.
