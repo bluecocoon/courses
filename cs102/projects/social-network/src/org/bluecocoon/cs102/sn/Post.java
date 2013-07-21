@@ -4,17 +4,26 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * It's a tree of posts. People can post on a post.
+ * It's a tree where root node is a post and all the children are comment posts. People can post comment on comment posts. 
+ * (Both comment and post are represented by Post object)
  * @author vthevar
  */
 public class Post {
 
-    @Override
-    public String toString() {
-        return "Comment [commentTree=" + subPosts + ", commentBody=" + body + ", hashCode()=" + hashCode()
-                + "]";
-    }
+    private List<Post> subPosts;
+    private static int curSerialNo;
+	private int serialNo; 
+	private String body;
+    private Date lastUpdated;
 
+    public Post() {
+    	serialNo = curSerialNo++;
+    }
+    
+    public Post( int argSerial) {
+    	serialNo = argSerial;
+    }
+        
     @Override
     public int hashCode() {
         final int prime = 31;
@@ -46,10 +55,6 @@ public class Post {
         return true;
     }
 
-    public Post() {
-
-    }
-
     public List<Post> getSubPosts() {
         return subPosts;
     }
@@ -74,7 +79,4 @@ public class Post {
         this.body = argBody;
     }
 
-    private List<Post> subPosts;
-    private String body;
-    private Date lastUpdated;
 }
